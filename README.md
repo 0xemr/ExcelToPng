@@ -41,8 +41,8 @@ Excel dosyanızın aşağıdaki formata uygun olması gerekmektedir:
 
 ##  Örnek Excel Sayfası
 
-![examplegc](https://github.com/user-attachments/assets/a0158265-4915-45c2-8f1f-64c0fff9c0be)
+![examplexc](https://github.com/user-attachments/assets/b3725160-0248-412c-92e5-d36fe13fb574)
 
 ## Örnek Çıktı
 
-![examplepng](https://github.com/user-attachments/assets/53f20de0-b1ed-4335-ba32-13cdaeda57b8)
+![examplepng](https://github.com/user-attachments/assets/f69e4077-bd55-4a0e-944d-98e90bf5355d)
